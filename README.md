@@ -1,4 +1,4 @@
-Electronic Security system implemented on 8052 Mincrocontroller interfaced with RFID and Hex Keypad.Finger print verification is added as third stage for a future extension which is developed in MatLab.
+Electronic Security system implemented on 8052 Mincrocontroller interfaced with RFID and Hex Keypad.Finger print verification is the third stage added as a future extension which is developed in MatLab.
 
 The project is developed in Embeddded C and simulated on Proteus.
 Softwares required:
