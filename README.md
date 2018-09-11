@@ -1,9 +1,10 @@
-Electronic Security system implemented on 8052 Mincrocontroller interfaced with RFID and Hex Keypad.
+Electronic Security system implemented on 8052 Mincrocontroller interfaced with RFID and Hex Keypad.Finger print verification is added as third stage for a future extension which is developed in MatLab.
 
-The project is coded in Embeddded C and simulated on Proteus.
+The project is developed in Embeddded C and simulated on Proteus.
 Softwares required:
 Keil IDE
 ISIS Proteus
+MatLab 2012 or later.
 
 main.c is the main file which incoroporates lcd,rfid,keypad and delay files.
 
